@@ -1,5 +1,6 @@
 version: "2"
 services:
+  
   shell:
     image: eduardoshanahan/openjdk:latest
     container_name: es_openjdk
